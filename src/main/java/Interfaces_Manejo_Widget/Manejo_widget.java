@@ -1,5 +1,5 @@
 
-package Interfaces_Widget;
+package Interfaces_Manejo_Widget;
 
 public class Manejo_widget {
 
